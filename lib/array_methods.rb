@@ -12,7 +12,6 @@ def find_max_value(array)
   p array.last
 end
 
-
 def find_min_value(array)
   array.sort!
   p array.first
